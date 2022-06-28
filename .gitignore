@@ -3,3 +3,6 @@
 
 .idea
 
+# zola build output
+public
+
